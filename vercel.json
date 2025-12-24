@@ -6,7 +6,7 @@
   ],
   "routes": [
     { "src": "/api/(.*)", "dest": "/api/$1.js" },
-    { "src": "/", "dest": "/chat.html" },
+    { "src": "/", "dest": "/chatbot/templates/chat.html" },
     { "src": "(.*)", "dest": "/$1" }
   ]
 }
