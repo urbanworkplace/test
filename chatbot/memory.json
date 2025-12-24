@@ -1,0 +1,86 @@
+{
+  "4d3e496a-f620-444b-8a89-f6c86ff1782c": {
+    "title": "hey",
+    "created": "2025-12-24T10:44:27.642192",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hey"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! How can I help you today?"
+      }
+    ]
+  },
+  "25e03384-bad7-4ee7-baa2-6ea170e11ff5": {
+    "title": "my name is madhvi",
+    "created": "2025-12-24T10:44:37.264894",
+    "messages": [
+      {
+        "role": "user",
+        "content": "my name is madhvi"
+      },
+      {
+        "role": "assistant",
+        "content": "Nice to meet you, Madhvi!"
+      }
+    ]
+  },
+  "d95d6a31-37f7-478c-ad2b-94b617aa72ec": {
+    "title": "whats is my name?",
+    "created": "2025-12-24T10:44:50.320971",
+    "messages": [
+      {
+        "role": "user",
+        "content": "whats is my name?"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm a helpful AI, but I don't have any information about you. You haven't told me your name, so I don't know what it is. Can you please tell me your name?"
+      }
+    ]
+  },
+  "a731c06d-1e78-4428-a45e-be33853fec75": {
+    "title": "2+2",
+    "created": "2025-12-24T10:45:07.082534",
+    "messages": [
+      {
+        "role": "user",
+        "content": "2+2"
+      },
+      {
+        "role": "assistant",
+        "content": "The answer is 4."
+      }
+    ]
+  },
+  "2da75662-68a2-4026-851f-94e4b646ef97": {
+    "title": "45*125",
+    "created": "2025-12-24T10:45:11.082052",
+    "messages": [
+      {
+        "role": "user",
+        "content": "45*125"
+      },
+      {
+        "role": "assistant",
+        "content": "45 * 125 = 5625"
+      }
+    ]
+  },
+  "0cbdd68b-257a-4211-a7cc-1403b8067945": {
+    "title": "my name",
+    "created": "2025-12-24T10:45:18.646573",
+    "messages": [
+      {
+        "role": "user",
+        "content": "my name"
+      },
+      {
+        "role": "assistant",
+        "content": "You didn't tell me your name."
+      }
+    ]
+  }
+}

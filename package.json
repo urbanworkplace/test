@@ -1,0 +1,12 @@
+{
+  "name": "little-baby-chatbot",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
